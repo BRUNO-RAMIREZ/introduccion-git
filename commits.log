@@ -1,0 +1,98 @@
+commit 110968a5b18adf2da7f0545fb0e39266ecd9c55c
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 15:05:48 2022 -0400
+
+    Agregando dos parrafos
+
+commit 2e1af7e16ef58d05733a85fe23cd4f8227d5daaa
+Merge: 525f9ee e8a298b
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 15:03:36 2022 -0400
+
+    Resolviendo conflicto Agregando estaciones de anio con fecha de inicio
+
+commit 525f9eea2171eb5a9f28e05bc2ed9379bd84586f
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 14:47:01 2022 -0400
+
+    Agregando estaciones de anio con fecha de inicio
+
+commit e8a298be605762b9740c038e5107230c0068a13a
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 14:47:01 2022 -0400
+
+    Agregando contenido las estaciones del anio
+
+commit 14358c00e0ec0d7d7c7fd6bdfaa04b16651f212a
+Merge: 0baca60 4856410
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 14:41:44 2022 -0400
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit 4856410ab35fe7b9cc9894c2a12add16fbd03e8f
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 14:33:40 2022 -0400
+
+    Agregando contenido js al index.html
+
+commit 0baca60fcad653019ef0c80d4049b866e12778a0
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 14:30:59 2022 -0400
+
+    agregando contenido al index.html
+
+commit 34f4aaa307ef3161f9485bf0882f781374670f5d
+Merge: 86763d4 d61df50
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 14:22:22 2022 -0400
+
+    Merge branch 'js'
+
+commit d61df505e6977e48a856832c29cc35ea9d4e91e0
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 12:27:14 2022 -0400
+
+    Creando index.js
+
+commit 86763d446aff55143f8ac85ce6be8325fe3b17cc
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 12:23:01 2022 -0400
+
+    Creando style.css
+
+commit e71aca7bdf801c33ce443410c9907bfc4e496c05
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 12:17:33 2022 -0400
+
+    Creando Archivo index.html
+
+commit 21a551a5be04e75fe7ffef903745f87c9155c46b
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 12:02:14 2022 -0400
+
+    Ignorando archivos .exe
+
+commit b207f8e0bf8e212e4b0c9f11c6fff18eb60a173e
+Author: BRUNO-RAMIREZ <89104842+BRUNO-RAMIREZ@users.noreply.github.com>
+Date:   Mon Aug 29 11:29:57 2022 -0400
+
+    Creando licencia del repositorio
+
+commit 8d8f936405d623370d45618c90571813a26b09b1
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 11:24:23 2022 -0400
+
+    Agregando mas contenido al README
+
+commit 3119ef394dff691d6664e2a04aed17f29cfba1ee
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 11:14:22 2022 -0400
+
+    Second Commit
+
+commit 7c5e501534f13e537824ed7d177cb11fe518abae
+Author: BRUNO-RAMIREZ <brunaisdiaz1@gmail.com>
+Date:   Mon Aug 29 11:12:10 2022 -0400
+
+    First Commit
